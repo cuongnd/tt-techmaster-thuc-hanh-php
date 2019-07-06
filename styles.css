@@ -1,0 +1,17 @@
+form{
+    border: 1px solid black;
+    width: 400px;
+}
+label{
+    line-height: 40px;
+    display: inline-block;
+    width: 120px;
+    text-align: right;
+    padding-left: 0px;
+}
+p{
+    text-align: center;
+}
+.button{
+    text-align: center;
+}
